@@ -13,7 +13,7 @@ This module is going to create
 
 * enable_dns_support(optional) - User can provide enable_dns_support, ***default is true***
 
-*common_tags - User can provide tags for all resources, ***default is empty***
+* common_tags - User can provide tags for all resources, ***default is empty***
 
 * vpc_tags(optional) - User can provide vpc tags for vpc resources, ***default is empty***
 
