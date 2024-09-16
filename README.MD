@@ -7,7 +7,7 @@ This module is going to create
 * 2 Private subnets
 * 2 Database subnets
 
-###
+### Inputs
 * cidr_block(required)- User has to provide cidr block
 * enable_dns_hostnames(optional) - User can provide enable_dns_hostnames, ***default is true***
 
